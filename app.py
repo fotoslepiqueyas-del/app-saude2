@@ -13,15 +13,15 @@ hospitais_data = [
     },
     {
         "id": 2,
-        "nome": "UPA Central Carapicuíba",
+        "nome": "UPA Bruno Covas",
         "status": "Amarelo - Movimentado",
-        "tempo_espera": 60,
+        "tempo_espera": 45,
     },
     {
         "id": 3,
-        "nome": "Hospital Santa Ana",
+        "nome": "Pronto Atendimento Cohab II",
         "status": "Vermelho - Lotado",
-        "tempo_espera": 180,
+        "tempo_espera": 90,
     },
 ]
 
